@@ -1,4 +1,4 @@
-# GitHub Actions Lab — GitHubActionsLab-YourName
+# GitHub Actions Lab — GitHubActionsLab-TIRTH
 
 This repository contains a simple **Java Ant project** and two **GitHub Actions** workflows created for the GitHub Actions Lab.
 
